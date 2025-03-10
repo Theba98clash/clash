@@ -158,7 +158,7 @@ export const courseData: Course = {
                 "Understand how to position yourself to capture attention in the new digital landscape"
               ],
               tracks: ["Content Creator Growth", "Holistic Approach", "Founders"],
-              duration: 25,
+              duration: 30,
               founderMustWatch: true,
 entrepreneurSpecific: false,
               popular: true,
@@ -225,7 +225,7 @@ entrepreneurSpecific: false,
                 "Learn simple fixes to immediately improve your engagement rates"
               ],
               tracks: ["Content Creator Growth", "Holistic Approach", "Founders"],
-              duration: 30,
+              duration: 20,
               founderMustWatch: true,
               entrepreneurSpecific: false,
               popular: true,
